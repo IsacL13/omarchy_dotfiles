@@ -1,0 +1,1 @@
+/home/isac/.config/omarchy/current/theme/neovim.lua
