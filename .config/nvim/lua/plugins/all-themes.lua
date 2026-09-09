@@ -8,6 +8,7 @@ return {
 	},
 	{
 		"bjarneo/aether.nvim",
+		name = "aether",
 		lazy = true,
 		priority = 1000,
 	},
